@@ -15,12 +15,12 @@ namespace UserManagment1
         {
 
         }
-        //protected void btnSaveSenderId_Click(Object sender,EventArgs e)
+        //protected void btnSaveSenderId_Click(Object sender, EventArgs e)
         //{
         //    User user = new User();
         //    user.UserName = txtUserName.Value;
         //    user.UserPassword = txtUserPassword.Value;
-       
+
         //    user.ExpireDate = Convert.ToDateTime(txtExpiredDate.Value);
 
         //    user.EmailID = txtemail.Value;
@@ -29,12 +29,12 @@ namespace UserManagment1
 
         //    using (UserRepository repo = new UserRepository())
         //    {
-        //       repo.Insert(user);
+        //        repo.Insert(user);
         //        Response.Redirect(Request.Url.AbsoluteUri);
 
         //    }
         //}
-       
+
     }
 
 }
